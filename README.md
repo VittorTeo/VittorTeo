@@ -114,35 +114,27 @@ const desenvolvedor = {
 
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rainbow-line.gif" width="100%" />
 
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rainbow-line.gif" width="100%" />
+
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
 
-<!-- GitHub Stats (Servidor Espelho) -->
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=VittorTeo&show_icons=true&theme=radical&locale=pt-br" alt="GitHub Stats" />
-&nbsp;
-<!-- Top Languages (Servidor Espelho) -->
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VittorTeo&layout=compact&theme=radical&locale=pt-br" alt="Top Languages" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=VittorTeo&show_icons=true&theme=dark" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VittorTeo&layout=compact&theme=dark" />
 
 <br/><br/>
 
-<!-- GitHub Streak -->
-<img src="https://streak-stats.demolab.com?user=VittorTeo&locale=pt_BR&theme=radical" alt="GitHub Streak" />
+<!-- Streak e Gráfico Direto -->
+<img src="https://streak-stats.demolab.com?user=VittorTeo&locale=pt_BR&theme=dark" alt="GitHub Streak" />
 
 <br/><br/>
 
-<!-- Troféus -->
-<img src="https://github-profile-trophy.vercel.app/?username=VittorTeo&theme=radical&column=7" alt="Troféus" />
-
-<br/><br/>
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VittorTeo&theme=react-dark&custom_title=Gr%C3%A1fico%20de%20Contribui%C3%A7%C3%B5es" alt="Activity Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VittorTeo&theme=react-dark" alt="Activity Graph" width="100%" />
 
 </div>
 
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rainbow-line.gif" width="100%" />
-
 ## 🌐 Vamos conversar?
 
 <div align="center">
