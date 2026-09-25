@@ -110,38 +110,32 @@ const desenvolvedor = {
 
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rainbow-line.gif" width="100%" />
 
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rainbow-line.gif" width="100%" />
+
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VittorTeo&show_icons=true&hide_border=true&locale=pt-br&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF&ring_color=00E5FF" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VittorTeo&layout=compact&hide_border=true&locale=pt-br&bg_color=0D1117&title_color=00E5FF&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
+<!-- GitHub Stats -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VittorTeo&show_icons=true&theme=radical&locale=pt-br" alt="GitHub Stats" />
+&nbsp;
+<!-- Top Languages -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VittorTeo&layout=compact&theme=radical&locale=pt-br" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=VittorTeo&locale=pt_BR&hide_border=true&background=0D1117&stroke=00E5FF&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=A0A0A0" alt="GitHub Streak" />
+<!-- GitHub Streak -->
+<img src="https://streak-stats.demolab.com?user=VittorTeo&locale=pt_BR&theme=radical" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=VittorTeo&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="Troféus" />
+<!-- Troféus -->
+<img src="https://github-profile-trophy.vercel.app/?username=VittorTeo&theme=radical&column=7" alt="Troféus" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VittorTeo&bg_color=0D1117&color=FFFFFF&line=00E5FF&point=FFFFFF&area=true&area_color=00E5FF&hide_border=true&custom_title=Gr%C3%A1fico%20de%20Contribui%C3%A7%C3%B5es" alt="Activity Graph" width="100%" />
-
-</div>
-
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rainbow-line.gif" width="100%" />
-
-## 🐍 A cobrinha comendo meus commits
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VittorTeo/VittorTeo/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VittorTeo/VittorTeo/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation comendo os commits" src="https://raw.githubusercontent.com/VittorTeo/VittorTeo/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VittorTeo&theme=react-dark&custom_title=Gr%C3%A1fico%20de%20Contribui%C3%A7%C3%B5es" alt="Activity Graph" width="100%" />
 
 </div>
 
