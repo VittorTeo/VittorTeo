@@ -112,15 +112,17 @@ const desenvolvedor = {
 
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rainbow-line.gif" width="100%" />
 
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rainbow-line.gif" width="100%" />
+
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
 
-<!-- GitHub Stats -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VittorTeo&show_icons=true&theme=radical&locale=pt-br" alt="GitHub Stats" />
+<!-- GitHub Stats (Servidor Espelho) -->
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=VittorTeo&show_icons=true&theme=radical&locale=pt-br" alt="GitHub Stats" />
 &nbsp;
-<!-- Top Languages -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VittorTeo&layout=compact&theme=radical&locale=pt-br" alt="Top Languages" />
+<!-- Top Languages (Servidor Espelho) -->
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VittorTeo&layout=compact&theme=radical&locale=pt-br" alt="Top Languages" />
 
 <br/><br/>
 
