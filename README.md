@@ -145,16 +145,6 @@ const desenvolvedor = {
 
 </div>
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/snake.svg" />
-  <img alt="Snake animation comendo os commits" src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/snake.svg" width="100%" />
-</picture>
-
-</div>
-
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rainbow-line.gif" width="100%" />
 
 ## 🌐 Vamos conversar?
