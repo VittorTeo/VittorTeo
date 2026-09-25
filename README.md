@@ -19,8 +19,8 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=SEU-USUARIO&label=Visitas+no+perfil&color=00E5FF&style=for-the-badge" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/SEU-USUARIO?label=Seguidores&style=for-the-badge&color=00E5FF&labelColor=0D1117&logo=github" alt="Followers" />
+<img src="https://komarev.com/ghpvc/?username=VittorTeo&label=Visitas+no+perfil&color=00E5FF&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/VittorTeo?label=Seguidores&style=for-the-badge&color=00E5FF&labelColor=0D1117&logo=github" alt="Followers" />
 
 </div>
 
@@ -114,20 +114,20 @@ const desenvolvedor = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&hide_border=true&locale=pt-br&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF&ring_color=00E5FF" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&hide_border=true&locale=pt-br&bg_color=0D1117&title_color=00E5FF&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VittorTeo&show_icons=true&hide_border=true&locale=pt-br&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF&ring_color=00E5FF" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VittorTeo&layout=compact&hide_border=true&locale=pt-br&bg_color=0D1117&title_color=00E5FF&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=SEU-USUARIO&locale=pt_BR&hide_border=true&background=0D1117&stroke=00E5FF&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=A0A0A0" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=VittorTeo&locale=pt_BR&hide_border=true&background=0D1117&stroke=00E5FF&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=A0A0A0" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=SEU-USUARIO&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="Troféus" />
+<img src="https://github-profile-trophy.vercel.app/?username=VittorTeo&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="Troféus" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU-USUARIO&bg_color=0D1117&color=FFFFFF&line=00E5FF&point=FFFFFF&area=true&area_color=00E5FF&hide_border=true&custom_title=Gr%C3%A1fico%20de%20Contribui%C3%A7%C3%B5es" alt="Activity Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VittorTeo&bg_color=0D1117&color=FFFFFF&line=00E5FF&point=FFFFFF&area=true&area_color=00E5FF&hide_border=true&custom_title=Gr%C3%A1fico%20de%20Contribui%C3%A7%C3%B5es" alt="Activity Graph" width="100%" />
 
 </div>
 
