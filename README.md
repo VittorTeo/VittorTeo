@@ -146,7 +146,7 @@ const desenvolvedor = {
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VittorTeo/VittorTeo/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VittorTeo/VittorTeo/output/github-contribution-grid-snake.svg" />
   <img alt="Snake animation comendo os commits" src="https://raw.githubusercontent.com/VittorTeo/VittorTeo/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
+
 
 </div>
 
