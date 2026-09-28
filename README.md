@@ -46,17 +46,8 @@ const desenvolvedor = {
 > 💬 
 🎓 Formado em Análise e Desenvolvimento de Sistemas, atualmente direcionando meus estudos para o desenvolvimento Back-end.
 
-💻 Tenho conhecimentos em HTML5, CSS3, Git e GitHub, e estou concluindo meus estudos em MySQL. Como próximo passo, estou me aprofundando em C# e no ecossistema .NET, com foco na construção de aplicações e APIs.
-
-🚀 Gosto de transformar conhecimentos em projetos práticos e estou constantemente buscando evoluir minhas habilidades por meio de estudos e desenvolvimento de projetos.
-
 🎯 Atualmente, busco minha primeira oportunidade profissional na área de desenvolvimento de software, onde possa aplicar meus conhecimentos, aprender com uma equipe e crescer profissionalmente na área de TI.
 
-​Conhecimentos e Estudos Atuais:
-●Tecnologias Web: HTML5 e CSS3 (Curso em Vídeo)
-●Controle de Versão: Git e GitHub
-○​Banco de Dados: MySQL (em andamento)
-○Linguagem de Programação: ​C#(em estudo)
 
 ​Motivado para aprender novas tecnologias, encarar desafios e colaborar com o crescimento de equipes dinâmicas.
 
