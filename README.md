@@ -43,8 +43,7 @@ const desenvolvedor = {
 ```
 
 <!-- 👇 Escreva aqui 2 ou 3 linhas sobre você, o que te motiva e o que você busca -->
-> 💬 
-🎓 Formado em Análise e Desenvolvimento de Sistemas, atualmente direcionando meus estudos para o desenvolvimento Back-end.
+> Estudante de ADS 🎓 | Explorando Desenvolvimento e Dados 💻 | HTML, CSS, Git & MySQL 🛠️ | Buscando minha primeira oportunidade em TI 🚀
 
 🎯 Atualmente, busco minha primeira oportunidade profissional na área de desenvolvimento de software, onde possa aplicar meus conhecimentos, aprender com uma equipe e crescer profissionalmente na área de TI.
 
