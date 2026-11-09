@@ -73,7 +73,7 @@ const desenvolvedor = {
 
 <div align="center">
 
-**Todos realizados através do [Curso em Vídeo](https://www.cursoemvideo.com/)**
+**Todos realizados através do [Curso em Vídeo](https://www.cursoemvideo.com/) e [Udemy](https://www.udemy.com/)**
 
 <br/>
 
