@@ -81,8 +81,7 @@ const desenvolvedor = {
 |:---|:---:|
 | <img src="https://skillicons.dev/icons?i=git,github" height="26" /> &nbsp; **Git e GitHub** | ![Concluído](https://img.shields.io/badge/%E2%9C%94%20Conclu%C3%ADdo-00E5FF?style=for-the-badge&labelColor=0D1117) |
 | <img src="https://skillicons.dev/icons?i=html,css" height="26" /> &nbsp; **HTML5 e CSS3 — Módulo 1** | ![Concluído](https://img.shields.io/badge/%E2%9C%94%20Conclu%C3%ADdo-00E5FF?style=for-the-badge&labelColor=0D1117) |
-| <img src="https://skillicons.dev/icons?i=mysql" height="26" /> &nbsp; **MySQL** | ![Cursando](https://img.shields.io/badge/%E2%8F%B3%20Cursando-FFFFFF?style=for-the-badge&labelColor=0D1117) |
-
+| <img src="https://skillicons.dev/icons?i=mysql" height="26" /> &nbsp; **MySQL** | ![Concluído](https://img.shields.io/badge/%E2%9C%94%20Conclu%C3%ADdo-00E5FF?style=for-the-badge&labelColor=0D1117) |
 </div>
 
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rainbow-line.gif" width="100%" />
