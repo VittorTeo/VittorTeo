@@ -69,9 +69,9 @@ Sou **estudante de Análise e Desenvolvimento de Sistemas** na UniEvangélica, c
 | 💠 Curso | 🏛️ Plataforma | 🚦 Status |
 |:---|:---:|:---:|
 | **Introduction to Generative AI** (45 horas)<br/>🏅 Skill badge em Inteligência Artificial Generativa | Google | ![Skill badge conquistada](https://img.shields.io/badge/Skill%20Badge-Conquistada-F9A8D4?style=flat-square&labelColor=2A1F4D) |
-| **Git e GitHub** | [Curso em Vídeo](https://www.cursoemvideo.com/) / [Udemy](https://www.udemy.com/) | ![Concluído](https://img.shields.io/badge/Conclu%C3%ADdo-C4B5FD?style=flat-square) |
-| **HTML5 e CSS3 — Módulo 1** | [Curso em Vídeo](https://www.cursoemvideo.com/) / [Udemy](https://www.udemy.com/) | ![Concluído](https://img.shields.io/badge/Conclu%C3%ADdo-C4B5FD?style=flat-square) |
-| **MySQL** | [Curso em Vídeo](https://www.cursoemvideo.com/) / [Udemy](https://www.udemy.com/) | ![Concluído](https://img.shields.io/badge/Conclu%C3%ADdo-C4B5FD?style=flat-square) |
+| **Git e GitHub** | [Curso em Vídeo](https://www.cursoemvideo.com/) | ![Concluído](https://img.shields.io/badge/Conclu%C3%ADdo-C4B5FD?style=flat-square) |
+| **HTML5 e CSS3 — Módulo 1** | [Curso em Vídeo](https://www.cursoemvideo.com/) | ![Concluído](https://img.shields.io/badge/Conclu%C3%ADdo-C4B5FD?style=flat-square) |
+| **MySQL** | [Udemy](https://www.udemy.com/) | ![Concluído](https://img.shields.io/badge/Conclu%C3%ADdo-C4B5FD?style=flat-square) |
 
 </div>
 
