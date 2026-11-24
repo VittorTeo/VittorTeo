@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-labelledby="t d">
+  <title id="t">Vittor Hugo O. Teodoro</title>
+  <desc id="d">Estudante de Análise e Desenvolvimento de Sistemas. Backend, Bancos de Dados e Desenvolvimento Web.</desc>
+  <style>
+    text { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #1E1147; text-anchor: middle; }
+    .name { font-size: 70px; font-weight: 700; letter-spacing: -1px; }
+    .sub { font-size: 29px; font-weight: 600; }
+    .area { font-size: 25px; font-weight: 500; }
+    stop { animation: shift 14s ease-in-out infinite; }
+    .s2 { animation-delay: -3.5s; } .s3 { animation-delay: -7s; } .s4 { animation-delay: -10.5s; }
+    .glow { animation: drift 18s ease-in-out infinite alternate; }
+    .g2 { animation-duration: 23s; animation-direction: alternate-reverse; }
+    @keyframes shift { 0%,100% { stop-color: #C9B2FF; } 25% { stop-color: #8FE9F5; } 50% { stop-color: #FFC2E2; } 75% { stop-color: #A9C4FF; } }
+    @keyframes drift { from { transform: translateX(-80px); } to { transform: translateX(140px); } }
+    @media (prefers-reduced-motion: reduce) { stop, .glow { animation: none; } }
+  </style>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop class="s1" offset="0" stop-color="#C9B2FF"/>
+      <stop class="s2" offset=".35" stop-color="#8FE9F5"/>
+      <stop class="s3" offset=".68" stop-color="#FFC2E2"/>
+      <stop class="s4" offset="1" stop-color="#A9C4FF"/>
+    </linearGradient>
+    <clipPath id="card"><rect width="1200" height="300" rx="28"/></clipPath>
+    <filter id="blur" x="-50%" y="-100%" width="200%" height="300%"><feGaussianBlur stdDeviation="40"/></filter>
+  </defs>
+  <g clip-path="url(#card)">
+    <rect width="1200" height="300" fill="url(#bg)"/>
+    <g filter="url(#blur)">
+      <ellipse class="glow" cx="250" cy="30" rx="260" ry="65" fill="#FFFFFF" opacity=".55"/>
+      <ellipse class="glow g2" cx="900" cy="280" rx="280" ry="70" fill="#B794FF" opacity=".45"/>
+    </g>
+    <path d="M0 245 C250 200 400 300 650 260 S1030 220 1200 255" fill="none" stroke="#FFFFFF" stroke-opacity=".5" stroke-width="2"/>
+    <path d="M0 262 C250 217 400 317 650 277 S1030 237 1200 272" fill="none" stroke="#FFFFFF" stroke-opacity=".35" stroke-width="2"/>
+  </g>
+  <text class="name" x="600" y="130">Vittor Hugo O. Teodoro</text>
+  <text class="sub" x="600" y="182">Estudante de Análise e Desenvolvimento de Sistemas</text>
+  <text class="area" x="600" y="225">Backend  •  Bancos de Dados  •  Desenvolvimento Web</text>
+</svg>

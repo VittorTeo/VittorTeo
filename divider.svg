@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 4" width="1200" height="4">
+  <style>
+    stop { animation: shift 10s ease-in-out infinite; }
+    .s2 { animation-delay: -2.5s; } .s3 { animation-delay: -5s; } .s4 { animation-delay: -7.5s; }
+    @keyframes shift { 0%,100% { stop-color: #9B6DFF; } 25% { stop-color: #22C3DD; } 50% { stop-color: #F277B8; } 75% { stop-color: #6C8DFF; } }
+    @media (prefers-reduced-motion: reduce) { stop { animation: none; } }
+  </style>
+  <defs>
+    <linearGradient id="g">
+      <stop class="s1" offset="0" stop-color="#9B6DFF"/>
+      <stop class="s2" offset=".35" stop-color="#22C3DD"/>
+      <stop class="s3" offset=".7" stop-color="#F277B8"/>
+      <stop class="s4" offset="1" stop-color="#6C8DFF"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="4" rx="2" fill="url(#g)"/>
+</svg>
